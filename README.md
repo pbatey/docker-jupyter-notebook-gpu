@@ -14,7 +14,7 @@ These images are available from DockerHub and were last built using **nvida/cuda
 the base container.
 
 - [pbatey/jupyter-r-notebook-gpu](https://cloud.docker.com/repository/docker/pbatey/jupyter-r-notebook-gpu)
-- [pbatey/jupyter-r-notebook-gpu](https://cloud.docker.com/repository/docker/pbatey/jupyter-scipy-notebook-gpu)
-- [pbatey/jupyter-r-notebook-gpu](https://cloud.docker.com/repository/docker/pbatey/jupyter-datascience-notebook-gpu)
+- [pbatey/jupyter-scipy-notebook-gpu](https://cloud.docker.com/repository/docker/pbatey/jupyter-scipy-notebook-gpu)
+- [pbatey/jupyter-datascience-notebook-gpu](https://cloud.docker.com/repository/docker/pbatey/jupyter-datascience-notebook-gpu)
 
 Running these images requires **docker-nvidia2** to be installed.
