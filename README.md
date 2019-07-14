@@ -1,6 +1,6 @@
 # docker-jupyter-notebook-gpu
 
-This Makefile builds the [jupyter/r-notebook](https://hub.docker.com/r/jupyter/r-notebook)
+This Makefile builds the [jupyter/r-notebook](https://hub.docker.com/r/jupyter/r-notebook),
 [jupyter/scipy-notebook](https://hub.docker.com/r/jupyter/scipy-notebook), and
 [jupyter/datascience-notebook](https://hub.docker.com/r/jupyter/datascience-notebook)
 docker images using [nvidia/cuda](https://hub.docker.com/r/nvidia/cuda/) as a base image.
