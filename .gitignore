@@ -1,0 +1,10 @@
+docker-stacks
+.docker-token
+.cleanme
+Dockerfile.*-notebook
+build.log
+fix-permissions
+start.sh
+start-notebook.sh
+start-singleuser.sh
+jupyter_notebook_config.py
